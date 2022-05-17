@@ -30,3 +30,5 @@ Route::get('/GetOffer','OfferController@getOffer');
 Route::patch('/UpdateOffer','OfferController@updateOffer');
 Route::delete('/DeleteOffer','OfferController@deleteOffer');
 Route::get('/GetAllOffers','OfferController@getAllOffers');
+
+Route::post('/Checkout','OrderController@checkout');
