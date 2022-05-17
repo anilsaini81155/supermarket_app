@@ -1,4 +1,4 @@
-Repo Link -> https://github.com/anilsaini81155/loan_app
+Repo Link -> https://github.com/anilsaini81155/supermarket_app
 
 Steps to execute the project
 1)Put the DB credentials in the env.
